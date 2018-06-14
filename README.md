@@ -3,6 +3,12 @@ A management panel for Project V (V2Ray) that provides graphical interface desig
 
 一个便于管理V2Ray的面板
 
+## Getting Started
+```bash
+python3 manage.py migrate
+python3 manage.py createsuperuser
+python3 manage.py runserver
+```
 
 ## License
 
